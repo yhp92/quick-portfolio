@@ -4,6 +4,10 @@
 
 ### Category Name 1 
 
+[Project 1 sfTitle](/MUSA508HW4.html)
+<img src="images/Brian.jpeg?raw=true"/>
+
+---
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
